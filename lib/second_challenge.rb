@@ -9,8 +9,7 @@ def second_challenge
 
   #code your solution here!
 
-  groceries.values
-  binding.pry
+  groceries.values.flatten
   
 
 end
